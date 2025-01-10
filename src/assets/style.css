@@ -24,14 +24,14 @@ header {
     justify-content: flex-end;
     align-items: center;
 }
-.menu-openner {
+.menu-opener {
     margin-right: 15px;
     font-size: 26px;
     background-color: #a9dcff;
     padding: 5px 20px;
     border-radius: 5px;
 }
-.menu-openner span {
+.menu-opener span {
     margin-right:10px;
 }
 .menu-closer {
